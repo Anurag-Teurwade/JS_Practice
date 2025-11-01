@@ -15,6 +15,5 @@ It includes examples, mini projects, and programs covering core JS concepts and 
 - Async JS (Promises, async/await)  
 - Mini Projects (Calculator, Todo App, etc.)
 
----
 
 
